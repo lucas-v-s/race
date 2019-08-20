@@ -1,0 +1,3 @@
+Instalar com o mvn
+A solucao busca um arquivo com o nome definido no Main. 
+Caso fosse executado por linha de comando, poderia ser definido no Args.
