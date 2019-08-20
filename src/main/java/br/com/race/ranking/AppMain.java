@@ -11,8 +11,7 @@ import java.util.List;
 public class AppMain {
 
 	public static void main(String[] args) {
-//		String file = "/home/lucasvs/race.txt";
-		String file = "C:/race.txt";
+		String file = "/home/lucasvs/race.txt";
 		LogProcessor logProcessor = new LogProcessor();
 		RaceProcessor raceProcessor = new RaceProcessor();
 		try {
