@@ -1,3 +1,4 @@
-Instalar com o mvn
+Instalar com o mvn install
+Para executar: java -cp target/race.jar br.com.race.ranking.AppMain
 A solucao busca um arquivo com o nome definido no Main. 
-Caso fosse executado por linha de comando, poderia ser definido no Args.
+Por ser executado por linha de comando, poderia ser definido no Args.
