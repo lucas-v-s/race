@@ -1,5 +1,5 @@
 # Race
-Solucao do problema, desenvolvido com Java.
+Solução do problema, desenvolvido com Java.
 
 Instalar utilizando mvn.
 
